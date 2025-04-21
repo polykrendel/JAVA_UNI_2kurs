@@ -1,0 +1,3 @@
+module products {
+    exports products;
+}
