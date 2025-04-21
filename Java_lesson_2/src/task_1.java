@@ -1,6 +1,6 @@
 public class task_1 {
     public static void main(String[] args) {
-        Car toyotaYaris = new Car("Toyota Yaris", "Drozhzhin Aleksander", "Белый", 2008);
+        Car toyotaYaris = new Car("Toyota Yaris", "Papapeve Gimabodich", "Белый", 2008);
         System.out.println(toyotaYaris);
 
         toyotaYaris.setColor("Антрацитовый");
